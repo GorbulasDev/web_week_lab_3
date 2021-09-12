@@ -1,0 +1,9 @@
+.jumbotron {
+    text-align: center;
+    color: white;
+    background: purple;
+}
+
+body {
+    background-image: linear-gradient(#ffff00, #FFFFFF);
+}
