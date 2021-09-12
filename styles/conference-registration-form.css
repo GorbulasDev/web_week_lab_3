@@ -2,8 +2,17 @@
     text-align: center;
     color: white;
     background: purple;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
 body {
     background-image: linear-gradient(#ffff00, #FFFFFF);
+}
+
+label {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+input {
+    text-transform:  uppercase;
 }
